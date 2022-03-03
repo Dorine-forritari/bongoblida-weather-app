@@ -1,0 +1,19 @@
+.button__tips {
+  padding: 0.5rem;
+  background-color: #ffff66;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(0,0,0,0.1), inset 0 0 0 rgba(0,0,0,0.1);
+}
+
+.button__tips:hover {
+  background-color: black;
+  color: #ffff66;
+  border: 2px solid #ffff66;
+}
+
+.tip {
+  font-weight: bold;
+}

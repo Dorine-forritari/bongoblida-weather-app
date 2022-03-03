@@ -1,0 +1,27 @@
+.stats__wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.stats {
+  max-width: 350px;
+  margin-bottom: 10px;
+}
+
+.stats > h4 {
+  margin-bottom: 0;
+}
+
+.stats__flex-container {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
+
+.stats__icon {
+  margin: 1rem;
+}
+
+.stats__description {
+  margin: 1rem;
+}

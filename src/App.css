@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.app__language {
+  display: flex;
+  justify-content: right;
+}
+
+.button__language {
+  margin-right: 2rem;
+  background: none;
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}

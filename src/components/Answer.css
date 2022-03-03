@@ -1,0 +1,16 @@
+.answer {
+  font-size: 2rem;
+  margin: 3rem;
+}
+
+@media (max-width: 700px) {
+  .answer {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .answer {
+    font-size: 1.2rem;
+  }
+}
